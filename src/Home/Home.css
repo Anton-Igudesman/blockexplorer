@@ -12,6 +12,10 @@
     color: red;
 }
 
+.transaction-id:hover {
+    cursor: pointer;
+}
+
 .network {
     color: greenyellow;
     font-weight: bold;

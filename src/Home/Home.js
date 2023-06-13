@@ -90,6 +90,7 @@ export default function Home({wallet, setWallet, handleChange}) {
     return (
         <div>
         <h3 className="search-heading">Search for Wallet Transactions on Sepolia, Goerli and Mumbai TestNets and also ETH_Mainnet</h3>
+        {responseArray.length > 0 && <h4 className="search-heading">Click on a transaction to get details</h4>}
         {
         responseArray && 
         <div>
