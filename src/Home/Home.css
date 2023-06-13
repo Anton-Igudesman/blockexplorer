@@ -1,0 +1,19 @@
+.info-block {
+    background-color: black;
+    color: white;
+}
+
+.search-heading {
+    background-color: rgba(239, 14, 14, 0.5)
+}
+
+.transaction-id {
+    font-weight: bold;
+    color: red;
+}
+
+.network {
+    color: greenyellow;
+    font-weight: bold;
+    background-color: blue;
+}

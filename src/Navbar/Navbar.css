@@ -1,0 +1,13 @@
+.navlist {
+    list-style: none;
+    display: flex;
+    background-color: green;
+    margin-top: 0;
+}
+
+.navlink {
+    text-decoration: none;
+    padding-right: 2em;
+    color: black;
+    font-weight: bold;
+}
